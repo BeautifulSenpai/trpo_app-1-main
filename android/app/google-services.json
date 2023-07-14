@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "446446862097",
+    "project_id": "glotty-e1cfd",
+    "storage_bucket": "glotty-e1cfd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:446446862097:android:6d495295d998c8a0ead6b0",
+        "android_client_info": {
+          "package_name": "com.example.trpo_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvuRmgVwCAck8VG91cvuyebZyFcF_Aah4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
